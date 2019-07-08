@@ -1,0 +1,17 @@
+name: wrf
+dependencies:
+  - conda
+  - numpy
+  - scipy
+  - matplotlib
+  - statsmodels
+  - scikit-learn
+  - snakemake
+  - netCDF4
+  - xarray
+  - pandas
+  - seaborn
+  - palettable
+  - pip
+  - pip:
+    - argh
